@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tirth Maru
 
-🚀 Frontend Developer | Python Enthusiast | Exploring AI & Automation  
+🚀 Frontend Developer
 
 I enjoy building **interactive web applications**, experimenting with **AI agents**, and learning by creating real projects.  
 Currently focused on improving my **frontend skills** while exploring **backend & AI tools**.
